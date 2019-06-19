@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a51bb6c-0548-4316-8b5b-b50ac8aa6240" name="Default Changelist" comment="" />
+    <list default="true" id="7a51bb6c-0548-4316-8b5b-b50ac8aa6240" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/com/regression/HomeActionPage$visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/com/regression/HomeActionPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/com/regression/SignInPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/com/regressionSuite/HomeActionPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/com/regressionSuite/SignInPageTest$AmazonSignin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/com/regressionSuite/SignInPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/Cigna-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/classes/com/regrassion/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/test-classes/com/regressionSuite/HomePageTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/test-classes/com/regressionSuite/HomePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/com/base/CommonAPI$TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/com/base/CommonAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -20,10 +80,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="420">
+              <caret line="28" column="21" selection-start-line="27" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="50" column="23" selection-start-line="18" selection-start-column="7" selection-end-line="50" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -34,13 +103,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java">
+        <entry file="file://$PROJECT_DIR$/allclasses-noframe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="125" selection-start-line="125" selection-end-line="125" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -48,29 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/com/regression/HomeActionPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5400">
-              <caret line="391" selection-start-line="391" selection-end-line="391" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/com/regression/SignInPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/com/regrassion/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="345" selection-start-line="345" selection-end-line="345" />
+            <state relative-caret-position="612">
+              <caret line="397" selection-start-line="397" selection-end-line="397" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,10 +124,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="117" column="52" lean-forward="true" selection-start-line="117" selection-start-column="52" selection-end-line="117" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/com/regressionSuite/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="170" selection-start-line="170" selection-end-line="170" />
+            <state relative-caret-position="195">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,7 +150,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/com/regressionSuite/HomeActionPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="135">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -110,7 +167,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/com/regressionSuite/SignInPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -128,20 +185,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/com/regression/HomeActionPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/com/regression/SignInPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/com/regressionSuite/SignInPageTest.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/com/regressionSuite/HomeActionPageTest.java" />
-        <option value="$PROJECT_DIR$/Cnn/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/main/java/com/regrassion/HomePage.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/com/regressionSuite/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/Cnn/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -164,21 +224,30 @@
           <item name="Cnn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebAutomationFinal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebAutomationFinal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="973" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
           <expand>
@@ -248,6 +317,30 @@
               <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -270,52 +363,13 @@
             <path>
               <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="regrassion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
@@ -327,13 +381,6 @@
               <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
@@ -359,13 +406,22 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WebAutomationFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Amazon/src/main/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/driver" />
@@ -479,9 +535,9 @@
     <list>
       <item itemvalue="JUnit.All in Amazon" />
       <item itemvalue="TestNG.com.regressionSuite" />
+      <item itemvalue="TestNG.HomePageTest" />
       <item itemvalue="TestNG.&lt;default&gt;" />
       <item itemvalue="TestNG.HomePageTest.testSetPaidPartnerIMG" />
-      <item itemvalue="TestNG.HomePageTest" />
     </list>
     <recent_temporary>
       <list>
@@ -526,11 +582,14 @@
     <history-entry file="HomePageTest_testSetPaidPartnerIMG - 2019.06.18 at 09h 31m 27s.xml">
       <configuration name="HomePageTest.testSetPaidPartnerIMG" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTest_testSetPaidPartnerIMG - 2019.06.18 at 09h 37m 42s.xml">
+      <configuration name="HomePageTest.testSetPaidPartnerIMG" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18192919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1892552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -539,12 +598,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291714" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3010204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3010204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29897958" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29693878" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
@@ -560,54 +619,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/com/regression/HomeActionPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="391" selection-start-line="391" selection-end-line="391" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -618,9 +633,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help-doc.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/com/regrassion/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5175">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/com/regressionSuite/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/com/regressionSuite/HomeActionPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -633,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/com/regressionSuite/SignInPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -641,20 +686,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/com/regrassion/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/allclasses-noframe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="345" selection-start-line="345" selection-end-line="345" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/com/regression/HomeActionPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="397" selection-start-line="397" selection-end-line="397" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/com/regressionSuite/HomePageTest.java">
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        <state relative-caret-position="563">
+          <caret line="50" column="23" selection-start-line="18" selection-start-column="7" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="21" selection-start-line="27" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/com/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="117" column="52" lean-forward="true" selection-start-line="117" selection-start-column="52" selection-end-line="117" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -714,7 +783,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Cnn</last-edited>
+          <last-edited>WebAutomationFinal</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

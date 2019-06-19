@@ -2,8 +2,6 @@ package com.base;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.ITestContext;
-import org.testng.TestNG;
-import org.testng.TestRunner;
 import org.testng.annotations.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -18,7 +16,7 @@ public class CommonAPI {
     private static By.ByClassName driver;
     private Object extent;
 
-
+//deiver setup
 
     public static WebDriver getLocalDriver( String browser ,String platform ){
         if (platform.equalsIgnoreCase ( "mac" ) && browser.equalsIgnoreCase ( "chrome" )) {
@@ -26,6 +24,8 @@ public class CommonAPI {
         } else if (platform.equalsIgnoreCase ( "windows" ) && browser.equalsIgnoreCase ( "chrome" )) {
             System.setProperty ( "webdriver.chrome.driver" ,"/Users/mohdfaruque/Desktop/WebAutomationFinal/Generic/src/driver/chromedriver.exe" );
         }
+       //driver initialization
+
         WebDriver driver = new ChromeDriver ( );
         driver.manage ( ).timeouts ( ).implicitlyWait ( 2000 ,TimeUnit.SECONDS );
         driver.manage ( ).timeouts ( ).pageLoadTimeout ( 2000 ,TimeUnit.SECONDS );
@@ -42,14 +42,14 @@ public class CommonAPI {
     }
 
 
-    //Used
+
     public static List<WebElement> getListOfWebElementsByCss( String locator ){
         List<WebElement> list = new ArrayList<WebElement> ( );
         list = driver.findElements ( (SearchContext) cssSelector ( locator ) );
         return list;
     }
 
-    //Used
+
     public static List<WebElement> getListOfWebElementsByCss( String locator ,WebDriver driver1 ){
         List<WebElement> list = new ArrayList<WebElement> ( );
         list = driver1.findElements ( cssSelector ( locator ) );
@@ -67,7 +67,7 @@ public class CommonAPI {
         return driver;
     }
 
-    //used
+
     public static boolean isPopUpWindowDisplayed( WebDriver driver1 ,String locator ){
         boolean value = driver1.findElement ( cssSelector ( locator ) ).isDisplayed ( );
         return value;
